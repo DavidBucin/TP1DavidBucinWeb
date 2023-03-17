@@ -1,0 +1,39 @@
+.cours-item {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    margin: 1rem;
+    width: calc(100% - 4rem);
+    min-width: 17.5rem;
+    
+    
+    
+    
+   
+}
+
+.cours-item a {
+    color: rgba(255, 254, 254, 0.864);
+    text-decoration: none;
+    
+  }
+
+.cours-item :hover,
+.cours-item :active {
+    background: #5d5f78;
+}
+
+.cours-item__content {
+    background: rgba(40, 48, 76, 0.297);
+    
+}
+.cours-item__info h3 {
+    margin: 0;
+}
+.cours-item__info h2 {
+    color: #7a6c56;
+}
+
+

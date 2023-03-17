@@ -1,0 +1,16 @@
+.photo {
+    width: 100%;
+    height: 100%;
+    display: flex; 
+    justify-content: left;
+    align-items: left;
+  }
+  .photo img {
+    display: flex;
+    border-radius: 25%;
+    width: 100%;
+    height: 100%;
+    
+  }
+  
+  

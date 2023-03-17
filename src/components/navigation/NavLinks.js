@@ -2,7 +2,9 @@ import React from 'react'
 import "./NavLinks.css"
 import { NavLink } from 'react-router-dom';
 
-function NavLinks() {
+
+
+function NavLinks(props) {
     return (
         <ul className='link-navigateur'>
             <li>

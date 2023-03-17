@@ -1,0 +1,24 @@
+.professeur-item  {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    margin: 1rem;
+    width: calc(45% - 2rem);
+    min-width: 17.5rem;
+    color: white;
+    
+  }
+
+  .professeur-item :hover,
+  .professeur-item :active {
+    background: #1b1c28;
+  }
+
+.professeur-item__photo {
+    width: 3rem;
+    height: 3rem;
+    margin-right: 1rem;
+}
+

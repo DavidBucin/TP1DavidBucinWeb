@@ -1,0 +1,13 @@
+.cours-list {
+    list-style: disc;
+    margin: 0 auto;
+    padding: 50;
+    width: 75%;
+    max-width: 25rem;
+    align-items: center;
+    
+   
+}
+.aucun {
+  color: red;
+}
